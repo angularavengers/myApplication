@@ -1,0 +1,13 @@
+ .useritem
+{
+   display: flex;
+    border: 1px solid black;
+    padding: 20px;
+    color :green;
+    margin-top: 50px;
+
+} 
+.item{
+   margin-left: 20px;
+}
+ 
